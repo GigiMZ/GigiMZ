@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GigiMZ
+- 👋 Hi, I’m Gigi
 - 👀 I’m interested in Math, Physics, Software Engineering and Game Development
 - 📚 Learned: Java, JavaFX, Python, Flask, Django, HTML/CSS, MySQL, Bash
 - 📝 Learning: C#, .NET, Godot 
